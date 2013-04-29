@@ -25,7 +25,7 @@ rewrites to fix it.
 
 = Other plugins that do OpenID delegation and their differences =
 
-* [OpenID Delegation](http://wordpress.org/extend/plugins/wordpress-openid-delegation/) by [rodrigosprimo](http://profiles.wordpress.org/rodrigosprimo/) - doesn't have the meta X-XRDS-Location tag, but does a cool thing and check if the provider you entered is actually a working OpenID provider.
+* [OpenID Delegation](http://wordpress.org/extend/plugins/wordpress-openid-delegation/) by [rodrigosprimo](http://profiles.wordpress.org/rodrigosprimo/) - does a cool thing and check if the provider you entered is actually a working OpenID provider.
 * [MyOpenID Delegation](http://wordpress.org/extend/plugins/myopenid-delegation/) by [benatkins](http://profiles.wordpress.org/benatkin/) - limited to MyOpenID as a provider.
 * [Open ID Delegate](http://wordpress.org/extend/plugins/openid-delegate/) by [alexisabarca](http://profiles.wordpress.org/alexisabarca/) - OpenID v1 only
 
